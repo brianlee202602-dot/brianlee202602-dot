@@ -14,7 +14,7 @@
 
 
 ## 📚 我正在做的项目
-- [**Little-Bear RAG**](https://github.com/brianlee202602-dot/Little-Bear)
+- [**Little-Bear**](https://github.com/brianlee202602-dot/Little-Bear)
 - [**Loom-Agent**](https://github.com/brianlee202602-dot/Loom-Agent)
 
 ## 📫 如何联系我
