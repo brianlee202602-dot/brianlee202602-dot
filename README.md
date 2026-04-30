@@ -6,22 +6,22 @@
 
 ## 📈 我的 GitHub 活动
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brianlee202602&show_icons=true&hide_title=true&hide=prs&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brianlee202602-dot&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
 ### 最近的提交
 
-![Last Commit](https://github-readme-streak-stats.herokuapp.com/?user=brianlee202602&theme=radical)
+![Last Commit](https://github-readme-streak-stats.herokuapp.com/?user=brianlee202602-dot&theme=radical)
 
 ## 🌍 访问统计
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=brianlee202602.brianlee202602)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=brianlee202602-dot.brianlee202602-dot)
 
 ## 📚 我正在做的项目
 - [**Little-Bear RAG**](https://github.com/brianlee202602-dot/Little-Bear)
 - [**Loom-Agent**](https://github.com/brianlee202602-dot/Loom-Agent)
 
 ## 📫 如何联系我
-- [GitHub](https://github.com/brianlee202602)
+- [GitHub](https://github.com/brianlee202602-dot)
 
 ---
 
