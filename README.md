@@ -12,9 +12,6 @@
 
 ![Last Commit](https://github-readme-streak-stats.herokuapp.com/?user=brianlee202602-dot&theme=radical)
 
-## 🌍 访问统计
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=brianlee202602-dot.brianlee202602-dot)
 
 ## 📚 我正在做的项目
 - [**Little-Bear RAG**](https://github.com/brianlee202602-dot/Little-Bear)
