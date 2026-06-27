@@ -1,7 +1,7 @@
 # Hello, welcome to my GitHub page! 👋
 
 ## 🧑‍💻 About Me
-- I am **Brian**, a coder.
+- I am **Brian**, a coder and designer.
 - I am passionate about **AI**, **software development**, and **automation**.
 
 ## 📈 My GitHub Stats
